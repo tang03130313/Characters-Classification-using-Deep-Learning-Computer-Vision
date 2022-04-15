@@ -35,11 +35,11 @@
 
 # Model
 ## Large
-![image](https://github.com/tang03130313/Characters-Classification-using-Deep-Learning-Computer-Vision/blob/main/image/result_Mobilenetv3Large.png)
+![image](https://github.com/tang03130313/Characters-Classification-using-Deep-Learning-Computer-Vision-MobileNet/blob/main/image/result_Mobilenetv3Large.png)
 
 ## Small
-![image](https://github.com/tang03130313/Deep-Learning-Computer-Vision-Characters-Classification/blob/main/image/result_Mobilenetv3Small.png)
+![image](https://github.com/tang03130313/Characters-Classification-using-Deep-Learning-Computer-Vision-MobileNet/blob/main/image/result_Mobilenetv3Small.png)
 
 # Score
-![image](https://github.com/tang03130313/Characters-Classification-using-Deep-Learning-Computer-Vision/blob/main/image/score-1.png)
-![image](https://github.com/tang03130313/Characters-Classification-using-Deep-Learning-Computer-Vision/blob/main/image/score-2.png)
+![image](https://github.com/tang03130313/Characters-Classification-using-Deep-Learning-Computer-Vision-MobileNet/blob/main/image/score-1.png)
+![image](https://github.com/tang03130313/Characters-Classification-using-Deep-Learning-Computer-Vision-MobileNet/blob/main/image/score-2.png)
